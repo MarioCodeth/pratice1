@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+}
+.hdy{
+    background-image:
+    radial-gradient(circle, rgba(0,0,0,0.6) 40%, rgba(0,0,0,1) 100%),
+    url("../IMG/waterfall.jpg");
+    background-size: cover;
+    color: #fff;
+    height: 600px;
+    text-align: center;
+}
+.hh{
+    display: inline-block;
+    padding: 10px 60px;
+    font-size: 15px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.hh a{
+    text-decoration: none;
+    color: #fff;
+    transition: border 0.4s, backgrond-colour 0.4s, color 0.4s;
+}
+.hh a:hover{
+    background-color: aquamarine;
+    border: 1px solid aquamarine ;
+    border-radius: 10px;
+    color: black;
+    padding: 5px;
+}
+.hdy h1{
+    color: #fff;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 100px;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+}
+.hdy h4{
+    color: #fff;
+    text-align: center;
+    margin-top: 60px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+}
+.hddy{
+    display: flex;
+    flex-wrap: wrap;
+}
+.pp{
+    flex-basis: 100%;
+    color: #fff;
+    text-align: center;
+}
+.exp{
+    flex-basis: 100%;
+    color: #fff;
+    text-align: center;
+}
+.loc{
+    display: flex;
+    flex-basis: 100%;
+
+}
+.loc img {
+    
+    width: 50px;
+}

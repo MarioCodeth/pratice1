@@ -1,0 +1,158 @@
+/*mmin page starts from line 64*/
+*{
+    font-style: normal;
+}
+.bdy{
+    background-image: url(../angelssloppyphotos-oTSVEsMmVFA-unsplash.jpg);
+    background-size: cover;
+}
+.frm{
+    margin: auto;
+    margin-top: 50px;
+    border: 2px solid gray;
+    width: 600px;
+    height: 600px;
+}
+.ab{
+    margin-left: 30%;
+    margin-top: 80px;
+}
+.abb{
+    margin-left: 30%;
+    margin-top: 60px;
+}
+
+.abbb{
+    margin-left: 30%;
+    margin-top: 50px;
+}
+.abbbb{
+    margin-left: 30%;
+    margin-top: 40px;
+}
+.hh{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(0, 0, 0);
+    font-weight: 100px;
+    text-align: center;
+}
+#email{
+    border-radius: 15px;
+    border: 1px solid gray;
+    width: 250px;
+    height: 30px;
+    color: black;
+    padding: 10px;
+}
+#pswd{
+    border-radius: 15px;
+    border: 1px solid gray;
+    width: 250px;
+    height: 30px;
+    color: black;
+    padding: 10px
+}
+#btn{
+    border-radius: 15px;
+    background-color: blanchedalmond;
+    color: black;
+    width: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 75px;
+    height: 50px;
+}
+/*main page*/
+.bby{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url(../angelssloppyphotos-oTSVEsMmVFA-unsplash.jpg);
+    background-size: cover;
+}
+.hed1{
+    width: 100%;
+    background-color: azure;
+    color: black;
+    height: 100px;
+
+}
+.ttl{
+    display: inline-block;
+    color: chocolate;
+    font-size: large;
+    padding: 10px;
+    margin-left: 10px;
+}
+.sttl{
+    float: right;
+    padding-left: 5px;
+    margin-top: -65px;
+    margin-right: 10px;
+}
+.sttl a{
+    text-decoration: none;
+    color: chocolate;
+    padding-left: 10px;
+}
+.sttl a:hover{
+    color: red;
+    text-transform: uppercase;
+    font-style: oblique;
+}
+.txt1{
+    font-size: 100px;
+    color: white;
+}
+.txt2{
+    margin-top: -60px;
+    margin-left: 5px;
+    color: white;
+    font-size: x-large;
+}
+.ddv{
+    height: 450px;
+}
+.ss1{
+    display: inline-block;
+    text-align: left;
+    color: white;
+    width: 50%;
+}
+.ss2{
+    float: right;
+}
+#abt{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+.lst{
+    width: 100%;
+    height: 300px;
+  background-color: aliceblue;
+    margin-top: 100px;
+    color: chocolate;
+}
+#lrn{
+    font-size: 50px;
+    padding: 10px;
+    text-align: center;
+
+}
+.fol{
+    text-align: center;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.ttt{
+    text-align: center;
+    font-size: medium;
+}
+.ttt a{
+    margin-top: -20px;
+    color: chocolate;
+    font-size: 30px;
+    padding-left: -10px;
+    padding-right: 20px;
+}
+.ttt a:hover{
+    color: black;
+}
